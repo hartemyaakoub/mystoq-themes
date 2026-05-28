@@ -1,0 +1,37 @@
+[
+  {
+    "id": "beauty",
+    "name": "Beauty",
+    "description": "Pink elegant - cosmetics, perfume, skincare. 8 products + 3 categories + 6 sections.",
+    "preview_url": "https://demo.mystoq.com/?theme=beauty",
+    "default": false
+  },
+  {
+    "id": "luxe",
+    "name": "Luxe",
+    "description": "Premium dark gold - jewelry, watches, high-end fashion.",
+    "preview_url": "https://demo.mystoq.com/?theme=luxe",
+    "default": true
+  },
+  {
+    "id": "sahara",
+    "name": "Sahara",
+    "description": "Warm sand earth-tones - traditional crafts, leather, oriental goods.",
+    "preview_url": "https://demo.mystoq.com/?theme=sahara",
+    "default": false
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "description": "Cool blue/cyan gradient - tech, electronics, modern lifestyle.",
+    "preview_url": "https://demo.mystoq.com/?theme=aurora",
+    "default": false
+  },
+  {
+    "id": "classic",
+    "name": "Classic",
+    "description": "Clean neutral white - any general store.",
+    "preview_url": "https://demo.mystoq.com/?theme=classic",
+    "default": false
+  }
+]
